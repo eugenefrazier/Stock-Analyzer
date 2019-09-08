@@ -1,0 +1,3 @@
+LIMITATION
+* Can do up to 4 stocks only
+* No database
